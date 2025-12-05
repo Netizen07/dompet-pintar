@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Dompet Pintar</string>
+    <string name="title_activity_main">Dompet Pintar</string>
+    <string name="package_name">com.dompetku.app</string>
+    <string name="custom_url_scheme">com.dompetku.app</string>
+    <string name="server_client_id">260749977730-hjlk4q6vu7in7v41u4enkq2vqj7igpib.apps.googleusercontent.com</string>
+</resources>

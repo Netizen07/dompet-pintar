@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "260749977730",
+    "project_id": "dompet-keluarga-ku",
+    "storage_bucket": "dompet-keluarga-ku.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260749977730:android:ad70a81d04b9ad8e18ac9b",
+        "android_client_info": {
+          "package_name": "com.dompetku.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260749977730-fd0qtsri0llds9h65dorubc66josmhg7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dompetku.app",
+            "certificate_hash": "e655bcb04f5ec4ca4333eaf6f88af64860d2ff10"
+          }
+        },
+        {
+          "client_id": "260749977730-hjlk4q6vu7in7v41u4enkq2vqj7igpib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbSWXKt4Qv-zMkd9O9rQOoG5vujWFnWhk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260749977730-hjlk4q6vu7in7v41u4enkq2vqj7igpib.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
